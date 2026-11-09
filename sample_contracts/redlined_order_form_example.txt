@@ -1,0 +1,33 @@
+CUSTOMER ORDER FORM
+
+This Order Form is entered into between PortSwigger Ltd ("Supplier") and Northwind Financial Services Ltd ("Customer").
+
+1. PRODUCT / LICENCE
+Burp Suite Enterprise Edition, annual subscription, as specified in the order summary.
+
+2. TERM
+Thirty-six (36) months from the Order Start Date, auto-renewing annually unless cancelled with 30 days notice.
+
+3. PAYMENT TERMS
+Payment due within sixty (60) days of invoice date (Net 60).
+
+4. PRICE
+As stated in the order summary. Customer requests price lock for the full 36 month term.
+
+5. SEAT COUNT / USAGE LIMITS
+As specified in the order summary. Additional seats may be added at the then-current list price, pro-rated for the remainder of the term.
+
+6. SUPPORT LEVEL
+Premium support requested: 24/7 phone and ticket support, response within 4 hours.
+
+7. DATA PROCESSING
+Governed by PortSwigger's standard Data Processing Addendum (DPA), incorporated by reference. Customer requests data residency within the EU only.
+
+8. LIABILITY CAP
+Limited to fees paid in the twenty-four (24) months preceding the claim.
+
+9. GOVERNING LAW
+England and Wales.
+
+10. CANCELLATION
+Either party may cancel at the end of the then-current term with 30 days written notice.

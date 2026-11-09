@@ -1,0 +1,33 @@
+CUSTOMER ORDER FORM (STANDARD TEMPLATE)
+
+This Order Form is entered into between PortSwigger Ltd ("Supplier") and the Customer.
+
+1. PRODUCT / LICENCE
+Burp Suite Enterprise Edition, annual subscription, as specified in the order summary.
+
+2. TERM
+Twelve (12) months from the Order Start Date, auto-renewing annually unless cancelled with 30 days notice.
+
+3. PAYMENT TERMS
+Payment due within thirty (30) days of invoice date (Net 30).
+
+4. PRICE
+As stated in the order summary. Prices are fixed for the initial term.
+
+5. SEAT COUNT / USAGE LIMITS
+As specified in the order summary. Additional seats may be added at the then-current list price, pro-rated for the remainder of the term.
+
+6. SUPPORT LEVEL
+Standard support included: business hours email and ticket support, response within 1 business day.
+
+7. DATA PROCESSING
+Governed by PortSwigger's standard Data Processing Addendum (DPA), incorporated by reference.
+
+8. LIABILITY CAP
+Limited to fees paid in the twelve (12) months preceding the claim.
+
+9. GOVERNING LAW
+England and Wales.
+
+10. CANCELLATION
+Either party may cancel at the end of the then-current term with 30 days written notice.

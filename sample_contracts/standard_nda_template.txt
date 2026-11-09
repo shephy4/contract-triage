@@ -1,0 +1,31 @@
+MUTUAL NON-DISCLOSURE AGREEMENT (STANDARD TEMPLATE)
+
+This Agreement is made between PortSwigger Ltd ("Company") and the counterparty ("Recipient").
+
+1. CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by either party, whether oral, written, or electronic, that is designated as confidential or would reasonably be understood to be confidential.
+
+2. TERM
+This Agreement shall remain in effect for a period of two (2) years from the Effective Date.
+
+3. OBLIGATIONS
+The Recipient shall:
+(a) use Confidential Information solely for the purpose of evaluating a potential business relationship;
+(b) not disclose Confidential Information to any third party without prior written consent;
+(c) protect Confidential Information using the same degree of care it uses for its own confidential information, but no less than reasonable care.
+
+4. EXCLUSIONS
+Confidential Information does not include information that:
+(a) is or becomes publicly available through no fault of the Recipient;
+(b) was rightfully known prior to disclosure;
+(c) is independently developed without use of Confidential Information;
+(d) is rightfully received from a third party without duty of confidentiality.
+
+5. GOVERNING LAW
+This Agreement shall be governed by the laws of England and Wales.
+
+6. LIABILITY
+Neither party's liability under this Agreement shall exceed £50,000.
+
+7. RETURN OF MATERIALS
+Upon termination, each party shall return or destroy all Confidential Information within 30 days.
